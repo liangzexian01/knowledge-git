@@ -29,3 +29,23 @@
 
 - 创建于 2026-10-22
 - 维护者：[@liangzexian01](https://github.com/liangzexian01)
+
+
+---
+
+# 本知识库怎么用
+
+这是 **liangzexian01** 的私人知识库。本地路径：`C:\Users\梁泽贤\.dsh\knowledge-base`，内容自动同步至 GitHub 仓库 `liangzexian01/knowledge-git`。
+
+**内容分类：**
+* `inbox`：收件箱（临时存放）
+* `notes`：学习笔记
+* `projects`：项目管理
+* `life`：生活记录
+* `archive`：归档备查
+
+**使用方法：**
+新增内容后，运行 `push_kb.py` 脚本即可推送到 GitHub。此外，AI 助手 (DSH) 可调用 WorkBuddy 大模型自动生成知识条目并写入本地。
+
+⚠️ **安全提醒**：私人知识库，**切勿写入密码、Token 等敏感信息**！
+
